@@ -18,9 +18,9 @@
     "buttons"
   ],
   "hidden": [
-    "stats",
     "buttons",
-    "streak"
+    "streak",
+    "stats"
   ],
   "hero": {
     "greeting": "Hi, I'm",
@@ -138,7 +138,7 @@
       }
     ],
     "variant": "chip",
-    "fill": "filled",
+    "fill": "outlined",
     "card": false
   },
   "buttons": {
