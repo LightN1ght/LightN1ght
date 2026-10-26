@@ -1,5 +1,5 @@
 {
- "key": "872075cb",
+ "key": "edca784b",
  "stars": 0,
  "contributions": 509,
  "repos": 3,
@@ -89,9 +89,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -100,7 +104,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 6
  },
  "pins": [
