@@ -18,20 +18,19 @@
     "buttons"
   ],
   "hidden": [
-    "buttons",
     "streak",
     "stats"
   ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "I build Python tools and bots. Open to backend internships and junior roles",
+    "name": "Evgenii",
+    "subtitle": "I build Python tools and bots. Open to backend interships and junior roles.",
     "typing": true,
     "avatarShape": "cookie",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Cheboksary, Russia"
+        "label": "Cheboksary · Russia"
       },
       {
         "icon": "code",
@@ -44,7 +43,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Second-year student focused on Python backend development"
+        "label": "Second year student focused on Python development"
       },
       {
         "icon": "code",
@@ -52,7 +51,7 @@
       },
       {
         "icon": "code",
-        "label": "Built a Telegram tutoring bot and deployed it on a VPS with Docker"
+        "label": "Built a Telegram AI-tutoring bot and deployed it on a VPS with Docker"
       }
     ]
   },
@@ -84,33 +83,37 @@
             "label": "Git"
           },
           {
-            "icon": "brand:docker",
-            "label": "Docker"
-          },
-          {
             "icon": "brand:linux",
             "label": "Linux"
           },
           {
             "icon": "brand:poetry",
             "label": "Poetry"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
-      "sinhub_bank_project"
+      "sinhub_bank_project",
+      "flight_tracker"
     ],
     "overrides": {
+      "flight_tracker": {
+        "shape": "flower",
+        "icon": "flight_takeoff"
+      },
       "sinhub_bank_project": {
-        "text": "Python app for processing bank transactions",
-        "icon": "brand:python"
+        "icon": "comment_bank"
       }
     },
-    "empty": "See the repository README for details",
+    "empty": "",
     "fork": "Fork"
   },
   "stats": {
@@ -138,17 +141,12 @@
       }
     ],
     "variant": "chip",
-    "fill": "outlined",
-    "card": false
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
   },
   "buttons": {
     "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
       {
         "icon": "book_2",
         "label": "All repositories",
