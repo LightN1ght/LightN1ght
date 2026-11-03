@@ -10,6 +10,8 @@
 
 <a href="https://github.com/LightN1ght/sinhub_bank_project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sinhub-bank-project-dark.svg"><img src="assets/project-sinhub-bank-project-light.svg" width="49%" alt="sinhub_bank_project"></picture></a>&nbsp;<a href="https://github.com/LightN1ght/flight_tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flight-tracker-dark.svg"><img src="assets/project-flight-tracker-light.svg" width="49%" alt="flight_tracker"></picture></a>
 
+<a href="https://github.com/LightN1ght/repetitor_bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-repetitor-bot-dark.svg"><img src="assets/project-repetitor-bot-light.svg" width="49%" alt="repetitor_bot"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://github.com/LightN1ght?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>
